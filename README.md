@@ -5,7 +5,7 @@ tính năng:
 
   
 #server
-  expressJS v4, mongoose v6
+  expressJS v4, mongoose v6__
   mã hóa mật khẩu với bcrypt v5
   lưu ảnh bằng cloadinary v1
   cấu hình biến môi trường với dotenv v16
